@@ -1,6 +1,6 @@
 ---
 
-layout:FirstPost
+layout: FirstPost
 title: Prótesis Veterinaria 
 autor: Camila Thorp F
 
